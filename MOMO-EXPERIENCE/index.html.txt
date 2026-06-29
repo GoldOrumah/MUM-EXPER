@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0"
+/>
+
+<title>Momo's Book of Memories</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- Background -->
+
+<div id="background"></div>
+
+<!-- Warm light -->
+
+<div id="light"></div>
+
+<!-- Floating particles -->
+
+<div id="particles"></div>
+
+<!-- Door -->
+
+<div id="door">
+
+    <img
+    src="images/scene1-door.jpg"
+    alt="Door"
+    id="doorImage"
+    >
+
+    <div id="knockSign">
+
+        ✿<br>
+
+        Knock?
+
+    </div>
+
+</div>
+
+<!-- Fade -->
+
+<div id="fade"></div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+12
